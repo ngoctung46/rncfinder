@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1003323466155",
+    "firebase_url": "https://rncfinderapp.firebaseio.com",
+    "project_id": "rncfinderapp",
+    "storage_bucket": "rncfinderapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003323466155:android:f7a47163649b5d12",
+        "android_client_info": {
+          "package_name": "RncFinderApp.RncFinderApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003323466155-t0lhq7082uqqqvsuhm8dsh6eshbrc0h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlYUksSN2pE7Gs4QX_JLhe0oOvLH2S10w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003323466155-t0lhq7082uqqqvsuhm8dsh6eshbrc0h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
